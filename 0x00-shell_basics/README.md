@@ -1,1 +1,1 @@
-shell basis task
+shell basics task
